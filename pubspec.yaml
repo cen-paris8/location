@@ -4,11 +4,10 @@ description: A new Flutter project.
 dependencies:
   flutter:
     sdk: flutter
-  # async: ^2.0.8
-  # flutter_map: ^0.5.0+1
-  # latlong: ^0.6.1
+  async: ^2.0.8
+  flutter_map: ^0.5.0+1
+  latlong: ^0.6.1
   location: ^2.3.5
-  #  path: ./location/
 
 dev_dependencies:
   flutter_test:
