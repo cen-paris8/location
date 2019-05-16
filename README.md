@@ -19,3 +19,14 @@ classpath 'com.google.gms:google-services:4.2.0'
 
 et pour finir dans pubspec.yaml
 location: ^2.3.5
+
+Log du run :
+ flutter run
+Launching lib/main.dart on F5321 in debug mode...
+Initializing gradle...                                              6,6s
+Resolving dependencies...                                          78,0s
+Running Gradle task 'assembleDebug'...                            230,6s (!)
+Built build\app\outputs\apk\debug\app-debug.apk.
+Installing build\app\outputs\apk\app.apk...                         6,9s
+Syncing files to device F5321...                                 6 873ms (!)
+
