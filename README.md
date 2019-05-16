@@ -6,7 +6,7 @@ https://pub.dev/packages/location
 AndroidManifest.xml
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
-gradle-wrapper.properties et local.properties comme il n'y a pas de gradle properties :
+gradle.properties :
 android.enableJetifier=true
 android.useAndroidX=true
 org.gradle.jvmargs=-Xmx1536M
@@ -15,7 +15,8 @@ build.gradle
 classpath 'com.android.tools.build:gradle:3.3.0'
 classpath 'com.google.gms:google-services:4.2.0'
 
-
+Modifier car log du flutter run a demandé de monter de version.
+distributionUrl=https\://services.gradle.org/distributions/gradle-4.10.1-all.zip
 
 et pour finir dans pubspec.yaml
 location: ^2.3.5
