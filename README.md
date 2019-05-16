@@ -1,5 +1,5 @@
 # Par rapport à la version initiale Margouillat master dans Firebase
-# J'ai ajouté comme demandé ddans la doc du package location:
+# J'ai ajouté comme demandé dans la doc du package location:
 
 https://pub.dev/packages/location
 
